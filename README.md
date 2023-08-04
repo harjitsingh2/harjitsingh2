@@ -4,7 +4,7 @@ Hi 👋 My name is Harjit Singh
 Software Engineer
 -----------------
 
-I am an astrophysicist, educator, and software engineer. Throughout my career, I've applied my technical and analytical skills to astrophysics research, and I communicated technical concepts to students as a physics teacher. I love engaging with STEM and bringing its application to others via technology. I'm looking to use my fullstack software engineering skills to create impactful tech. When I'm not coding, you can find me hiking, playing frisbee, juggling, climbing, or eating copious amounts of pizza.
+I am an astrophysicist, educator, and software engineer. Throughout my career, I've applied my technical and analytical skills to astrophysics research, and I communicated technical concepts to students as a physics teacher. I love engaging with STEM and bringing its application to others via technology. I'm looking to use my fullstack software engineering skills to create impactful tech.
 
 * 🖥️  See my portfolio at [https://harjitsingh2.github.io/](http://harjitsingh2.github.io/)
 * ✉️  You can contact me at [singh.harjit09@gmail.com](mailto:singh.harjit09@gmail.com)
