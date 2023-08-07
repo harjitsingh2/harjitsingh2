@@ -6,7 +6,7 @@ Software Engineer
 
 I am an astrophysicist, educator, and software engineer. Throughout my career, I've applied my technical and analytical skills to astrophysics research, and I communicated technical concepts to students as a physics teacher. I love engaging with STEM and bringing its application to others via technology. I'm looking to use my fullstack software engineering skills to create impactful tech.
 
-* 🖥️  See my portfolio at [https://harjitsingh2.github.io/](http://harjitsingh2.github.io/)
+* 🖥️  See my portfolio at [https://harjitsingh.dev/](http://harjitsingh.dev/)
 * ✉️  You can contact me at [singh.harjit09@gmail.com](mailto:singh.harjit09@gmail.com)
 * 🚀  I'm currently working on [Fairbnb](http://fairbnb-jcgn.onrender.com/)
 * 🧠  I'm learning data structures & algorithms
@@ -34,7 +34,11 @@ I am an astrophysicist, educator, and software engineer. Throughout my career, I
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/harjitsingh2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harjitsingh2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@harjits" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<!--   <a href="https://www.github.com/harjitsingh2" target="_blank" rel="noreferrer"><img   src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://wellfound.com/u/harjitsingh2" target="_blank" rel="noreferrer"><img   src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/wellfound.svg" width="32" height="32" /></a> -->
+  <a href="https://www.linkedin.com/in/harjitsingh2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@harjits" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+</p>
 
 ### Interests ⚡
 <li>⛰️ hiking</li>
