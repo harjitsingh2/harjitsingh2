@@ -1,12 +1,12 @@
 Hi 👋 My name is Harjit Singh
 =============================
 
-Software Engineer
+I am an astrophysicist, educator, and software engineer.
 -----------------
 
-I am an astrophysicist, educator, and software engineer. Throughout my career, I've applied my technical and analytical skills to astrophysics research, and I communicated technical concepts to students as a physics teacher. I love engaging with STEM and bringing its application to others via technology. I'm looking to use my fullstack software engineering skills to create impactful tech.
+Throughout my career, I've applied my analytical skills to astrophysics research, and I communicated technical concepts to students as a physics and engineering design teacher. I love engaging with STEM and bringing its application to others via technology. I'm looking to use my fullstack software engineering skills to create impactful tech.
 
-* 🖥️  See my portfolio at [https://harjitsingh.dev/](http://harjitsingh.dev/)
+* 🖥️  See my portfolio at [https://harjitsingh.dev/](https://harjitsingh.dev/)
 * ✉️  You can contact me at [singh.harjit09@gmail.com](mailto:singh.harjit09@gmail.com)
 * 🚀  I'm currently working on [Fairbnb](http://fairbnb-jcgn.onrender.com/)
 * 🧠  I'm learning data structures & algorithms
